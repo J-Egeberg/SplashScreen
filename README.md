@@ -1,6 +1,6 @@
 # SplashScreen - Article
 
-## Indledning
+## Intro
 
 The Point of this article is to give the reader an insight in SplashScreens. Both what it is and why it is usefull.
 
