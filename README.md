@@ -1,4 +1,14 @@
-# SplashScreen
+# SplashScreen - Article
+
+## Indledning
+
+Denne artikel består af to forskellige dele. 
+I den første del beskrives hvad en SplashScreen er og hvorfor den er relevant i moderne app udvikling. En SplashScreen er en intro der skal vises inden selve appen starter.
+Del nr. to skal betragtes som en slags "tutorial", som man kan følge hvis man ønsker at lave en SplashScreen i ens eget android projekt.
+
+### Hvad og Hvorfor - SplashScreen
+
+### Tutorial
 
 Create a Splash Screen on Android : the Right Way !
 At a certain moment in the past, Google advised against using a Splash Screen on Android Applications. It was useless. Then, when they have published the Material Design Specifications, some of us have seen that the Splash Screen was now a pattern known as Launch Screen. Ideal to display your brand logo during cold start of applications. So, what’s the difference between the bad Splash Screen and the good Splash Screen ?
