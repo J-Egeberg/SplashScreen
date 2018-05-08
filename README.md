@@ -33,11 +33,11 @@ When creating a correct Splash screen you need to follow a few steps:
   
 These Steps is explained and documented by images for transparency below.
 
-To create a correct Splash Screen, you need to create a background that will display your brand logo to the screen. For this, you must create an XML file in the res/drawable folder like so (app>res>layout rightclick and create new layout file):
+To create a correct Splash Screen, you need to create a background that will display your brand logo to the screen. For this, you must create an XML file in the res/drawable folder like so called background:
 
 ![alt text](https://github.com/J-Egeberg/SplashScreen/blob/master/Pictures/1.png)
 
-Next step is to create a dedicated theme for your Splash Activity. For this, you must inherit from the Theme.AppCompat.NoActionBar theme like shown:
+Next step is to create a dedicated theme for your Splash Activity. For this, you must inherit from the Theme.AppCompat.NoActionBar theme like shown. This is located in your res/values folders and then within the styles file:
 
 ![alt text](https://github.com/J-Egeberg/SplashScreen/blob/master/Pictures/2.png)
 
@@ -53,7 +53,11 @@ Don’t forget to define your SplashActivity in the Android Manifest and apply t
 
 ![alt text](https://github.com/J-Egeberg/SplashScreen/blob/master/Pictures/4.png)
 
-Then, you can write the code of your Android Application in your MainActivity as you want. 
+Then, you can write the code of your Android Application in your MainActivity as you want.
+
+I just put my app to sleep for 2 seconds by writing the class below (remember to use it in your manifestation).
+
+![alt text](https://github.com/J-Egeberg/SplashScreen/blob/master/Pictures/5.png)
 
 You can try this application simply by cloning or downloading it as a zip file and run the project.
 
