@@ -2,13 +2,22 @@
 
 ## Intro
 
-The Point of this article is to give the reader an insight in SplashScreens. Both what it is and why it is usefull.
+The Point of this article is to give the reader an insight in splashs creens. Both what it is and why it is usefull. The article also gives the reader an easy to follow guide if you wanna setup a splash screen in your own project.
+The article is written by Casper Gross Larsen and Jens Egeberg Rasmussen
 
 The article consists of two different parts.
 The first parts describes what is a SplashScreen and why it is Relevant in modern app development. A SplashScreen is the intro that runs before the app itself.
 The second part of this article is meant to be a tutorial, one can follow if he/she wishes to create a SplashScreen with a logo, cinematic etc. in an android project.
 
 ### What and Why - SplashScreen
+
+A splash screen is a graphical control element consisting of a window containing an image, a logo, and the current version of the software. A splash screen usually appears while a game or program is launching.
+
+Splash screens are typically used by multiple applications, large ones in particular, to notify the user that the program is in the process of loading. They usually provide the feedback to the user that a lengthy process is underway.
+
+Occasionally, a progress bar within the splash screen indicates the loading progress. A splash screen disappears when the application's main window appears.
+
+Splash screens typically serve to enhance the look and feel of an application or web site, hence they are often visually appealing. They may also have animations, graphics, and sound.
 
 ### Tutorial
 
