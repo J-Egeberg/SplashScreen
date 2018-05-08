@@ -33,7 +33,7 @@ When creating a correct Splash screen you need to follow a few steps:
   
 These Steps is explained and documented by images for transparency below.
 
-To create a correct Splash Screen, you need to create a background that will display your brand logo to the screen. For this, you must create an XML file in the res/drawable folder like so:
+To create a correct Splash Screen, you need to create a background that will display your brand logo to the screen. For this, you must create an XML file in the res/drawable folder like so (app>res>layout rightclick and create new layout file):
 
 ![alt text](https://github.com/J-Egeberg/SplashScreen/blob/master/Pictures/1.png)
 
